@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abud Zoughbi</h1>
-<h3 align="center">A Passionate engineering student at Kungliga Tekniska Högskolan.</h3>
+<h3 align="center">A Passionate engineering student at KTH, the Royal Institute of Technology in Stockholm, Sweden.</h3>
 
 - 🌱 I’m currently learning **Elixir and Networking**
 
