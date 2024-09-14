@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abud Zoughbi</h1>
-<h3 align="center">A Passionate engineering student at KTH, Royal Institute of Technology in Stockholm.</h3>
+<h3 align="center">A Passionate M.Sc student in Cybersecurity at KTH, Royal Institute of Technology in Stockholm.</h3>
 
-- 🌱 I’m currently learning **Elixir and Networking**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 📫 How to reach me **zoughbi@kth.se**
 
